@@ -1,4 +1,4 @@
-🧠 Actividad Formativa Semana 4 – Desarrollo Orientado a Objetos I
+🧠 Actividad Sumativa Semana 5 – Desarrollo Orientado a Objetos I
 
 
 👤 Autor del proyecto
@@ -9,7 +9,7 @@ Sede: Campus Online
 
 
 📘 Descripción general del sistema
-Este proyecto corresponde a la Actividad Formativa de la Semana 4 de la asignatura Desarrollo Orientado a Objetos I. 
+Este proyecto corresponde a la Actividad Sumativa de la Semana 5 de la asignatura Desarrollo Orientado a Objetos I. 
 Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es establecer una base estructurada para la gestión de información de Centros de Cultivo.
 
 El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
@@ -17,9 +17,9 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 
 🧱 Estructura general del proyecto
 📁 src/
-├── ui/         # Clase principal con el método main
-├── model/      # Clases de dominio (CentroCultivo)
-└── data/       # Clases para la carga y lectura de archivos .txt (GestorDatos) 
+├── app/         # Clase principal con el método main
+├── model/       # Clases de dominio (CentroCultivo, Personas)
+└── service/     # Clases para la carga y lectura de archivos .txt (GestorDatos) 
 
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
@@ -31,4 +31,4 @@ git clone https://github.com/Milencpa/SalmonttApp_S4.git
 - Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
 
-Repositorio GitHub: [https://github.com/Milencpa/SalmonttApp_S4] Fecha de entrega: [17/11/2025]
+Repositorio GitHub: [https://github.com/Milencpa/SalmonttApp_S4] Fecha de entrega: [24/11/2025]
