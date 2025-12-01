@@ -10,15 +10,15 @@
 
 
 ## 📘 Descripción general del sistema
-Esta actividad tiene como objetivo aplicar los principios de Programación Orientada a Objetos mediante la creación de jerarquías de clases con herencia simple. Se requiere definir una clase base que integre atributos y métodos comunes, y luego desarrollar subclases que extiendan su funcionalidad. Además, se espera utilizar conceptos clave como herencia, sobrescritura de métodos y composición entre clases cuando corresponda.
+##### Esta actividad tiene como objetivo aplicar los principios de Programación Orientada a Objetos mediante la creación de jerarquías de clases con herencia simple. Se requiere definir una clase base que integre atributos y métodos comunes, y luego desarrollar subclases que extiendan su funcionalidad. Además, se espera utilizar conceptos clave como herencia, sobrescritura de métodos y composición entre clases cuando corresponda.
 El trabajo se desarrolla en el contexto del proyecto de digitalización de la empresa salmonera Salmontt, continuando el modelado y la estructura creados en etapas anteriores.
 
 
 ## 🧱 Estructura general del proyecto
-📁 src/
-├── ui/         # Clase principal con el método main
-├── model/      # Clases de dominio (UnidadOperativa, CentroCultivo, PlantaProceso)
-└── data/       # Clases para la gestión básica de datos (GestorUnidades) 
+##### 📁 src/
+##### ├── ui/         # Clase principal con el método main
+##### ├── model/      # Clases de dominio (UnidadOperativa, CentroCultivo, PlantaProceso)
+##### └── data/       # Clases para la gestión básica de datos (GestorUnidades) 
 
 
 ## ⚙️ Instrucciones para clonar y ejecutar el proyecto
