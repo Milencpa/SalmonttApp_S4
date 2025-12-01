@@ -3,10 +3,10 @@
 
 
 ## 👤 Autor del proyecto
-Nombre completo: Milen Peralta Aguirre
-Sección: 002A
-Carrera: Analista Programador Computacional
-Sede: Campus Online
+### Nombre completo: Milen Peralta Aguirre
+### Sección: 002A
+### Carrera: Analista Programador Computacional
+### Sede: Campus Online
 
 
 ## 📘 Descripción general del sistema
